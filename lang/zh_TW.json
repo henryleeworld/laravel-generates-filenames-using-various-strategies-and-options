@@ -1,0 +1,7 @@
+{
+    "Adds a timestamp to the filename using PHP's DateTime formatting: ": "為檔案名稱使用 PHP 的 DateTime 格式新增 Unix 時間戳：",
+    "Converts the filename to a URL-friendly slug: ": "將檔案名稱轉換為使用者易記別名：",
+    "Generates a hash of the filename using various algorithms: ": "使用各種演算法產生檔案名稱的雜湊值：",
+    "Generates a random string of characters for the filename: ": "為檔案名稱產生一個隨機字串：",
+    "Generates a UUID v4 for the filename: ": "為檔案名稱產生 128 位元的通用唯一識別碼："
+}
