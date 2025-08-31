@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ba7347f861088cf324ce2a3532747d76",
+    "content-hash": "56960c6bbd8ff9780926303c629a1156",
     "packages": [
         {
             "name": "blaspsoft/onym",
